@@ -1,0 +1,26 @@
+# Flutter/Dart files
+**/build/
+**/.dart_tool/
+**/.pub/
+**/packages/
+
+# Android specific
+**/.gradle/
+**/gradle-wrapper.jar
+**/gradle-wrapper.properties
+**/local.properties
+**/settings.gradle
+**/.idea/
+**/.vscode/
+
+# Flutter generated files
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/pubspec.lock
+
+# Other files to ignore
+*.iml
+*.log
+*.swp
+.DS_Store
+Thumbs.db
