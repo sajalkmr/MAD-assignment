@@ -4,7 +4,7 @@
             "outputFile": "com.sajalkmr.tech.hello_world.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/sajal/StudioProjects/hello_world/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/sajal/flutter projects/MAD-assignment/Hello World/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

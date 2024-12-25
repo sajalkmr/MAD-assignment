@@ -18,10 +18,10 @@ com.sajalkmr.tech.hello_world.app-lifecycle-runtime-2.7.0-16 /home/sajal/.gradle
 com.sajalkmr.tech.hello_world.app-jetified-core-1.0.0-17 /home/sajal/.gradle/caches/transforms-3/c31a4bb5a15a2ee7a96dbe06c89e85f5/transformed/jetified-core-1.0.0/res
 com.sajalkmr.tech.hello_world.app-jetified-lifecycle-process-2.7.0-18 /home/sajal/.gradle/caches/transforms-3/dbde9cdc77876e4df7bbc93ff1556b43/transformed/jetified-lifecycle-process-2.7.0/res
 com.sajalkmr.tech.hello_world.app-jetified-startup-runtime-1.1.1-19 /home/sajal/.gradle/caches/transforms-3/fabdcf8916c57220c7a394d04ce23100/transformed/jetified-startup-runtime-1.1.1/res
-com.sajalkmr.tech.hello_world.app-debug-20 /home/sajal/StudioProjects/hello_world/android/app/src/debug/res
-com.sajalkmr.tech.hello_world.app-main-21 /home/sajal/StudioProjects/hello_world/android/app/src/main/res
-com.sajalkmr.tech.hello_world.app-pngs-22 /home/sajal/StudioProjects/hello_world/build/app/generated/res/pngs/debug
-com.sajalkmr.tech.hello_world.app-resValues-23 /home/sajal/StudioProjects/hello_world/build/app/generated/res/resValues/debug
-com.sajalkmr.tech.hello_world.app-packageDebugResources-24 /home/sajal/StudioProjects/hello_world/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.sajalkmr.tech.hello_world.app-packageDebugResources-25 /home/sajal/StudioProjects/hello_world/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.sajalkmr.tech.hello_world.app-merged_res-26 /home/sajal/StudioProjects/hello_world/build/app/intermediates/merged_res/debug
+com.sajalkmr.tech.hello_world.app-debug-20 /home/sajal/flutter projects/MAD-assignment/Hello World/android/app/src/debug/res
+com.sajalkmr.tech.hello_world.app-main-21 /home/sajal/flutter projects/MAD-assignment/Hello World/android/app/src/main/res
+com.sajalkmr.tech.hello_world.app-pngs-22 /home/sajal/flutter projects/MAD-assignment/Hello World/build/app/generated/res/pngs/debug
+com.sajalkmr.tech.hello_world.app-resValues-23 /home/sajal/flutter projects/MAD-assignment/Hello World/build/app/generated/res/resValues/debug
+com.sajalkmr.tech.hello_world.app-packageDebugResources-24 /home/sajal/flutter projects/MAD-assignment/Hello World/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.sajalkmr.tech.hello_world.app-packageDebugResources-25 /home/sajal/flutter projects/MAD-assignment/Hello World/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.sajalkmr.tech.hello_world.app-merged_res-26 /home/sajal/flutter projects/MAD-assignment/Hello World/build/app/intermediates/merged_res/debug
